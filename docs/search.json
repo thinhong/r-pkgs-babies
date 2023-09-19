@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a beginner 2-hour tutorial, perfect for workshops or self-paced learning. We’ll be right here, taking your hand and guiding you through every step of creating your own R package, from start to finish.\n\nCreate a new R package in RStudio\nWriting the first function\nSetup quality control"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "create-pkg.html",
+    "href": "create-pkg.html",
+    "title": "Create your package in RStudio",
+    "section": "",
+    "text": "Create a new R package Steps: Go to Files &gt; New Project… Select New Directory &gt; R Package Fill in Package name (optional) Tick Create a git repository Click Create Project\n\nPost-creation: Install usethis Generate a license for your package: Open-source: use_mit_license(copyright_holder=NULL) Proprietary: use_proprietary_license(copyright_holder) Other license options… Generate a read me file: usethis::use_readme_rmd() (optional) Update information inside the DESCRIPTION file."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "A sample R package: https://thinhong.github.io/denim/\nPopular R packages: https://tidyverse.tidyverse.org/\n“Advanced R” book: https://adv-r.hadley.nz/\n“R for data science” book : https://r4ds.had.co.nz/\nExplore syntax for function documentation: https://roxygen2.r-lib.org/articles/roxygen2.html"
+  }
+]

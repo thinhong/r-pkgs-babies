@@ -1,0 +1,16 @@
+---
+title: "Introduction"
+subtitle: "A baby-friendly guide to writing your first R package"
+author:
+  - name: Bui Thanh Long
+  - name: Thinh Ong
+    url: https://thinhong.github.io
+    orcid: 0000-0001-6772-9291
+  - name: Pham Nguyen The Nguyen
+---
+
+This is a beginner 2-hour tutorial, perfect for workshops or self-paced learning. We'll be right here, taking your hand and guiding you through every step of creating your own R package, from start to finish.
+
+- Create a new R package in RStudio
+- Writing the first function
+- Setup quality control 

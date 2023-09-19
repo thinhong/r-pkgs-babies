@@ -1,0 +1,20 @@
+---
+title: "Create your package in RStudio"
+---
+
+1. Create a new R package
+Steps:
+Go to Files > New Project…
+Select New Directory > R Package
+Fill in Package name
+(optional) Tick Create a git repository
+Click Create Project
+
+Post-creation:
+Install `usethis`
+Generate a license for your package:
+Open-source: use_mit_license(copyright_holder=NULL)
+Proprietary: use_proprietary_license(copyright_holder)
+Other license options…
+Generate a read me file: usethis::use_readme_rmd()
+(optional) Update information inside the DESCRIPTION file.

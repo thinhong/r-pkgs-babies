@@ -1,0 +1,9 @@
+---
+title: "Resources"
+---
+
+1. A sample R package: https://thinhong.github.io/denim/
+2. Popular R packages: https://tidyverse.tidyverse.org/
+3. “Advanced R” book: https://adv-r.hadley.nz/
+4. “R for data science” book : https://r4ds.had.co.nz/
+5. Explore syntax for function documentation: https://roxygen2.r-lib.org/articles/roxygen2.html

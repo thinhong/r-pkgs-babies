@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "R packages for babies"
+  site-url: https://thinhong.github.io/
+  navbar:
+    right:
+      - text: "English"
+      - text: "Vietnamese"
+  sidebar:
+    style: "docked"
+    contents:
+      - index.qmd
+      - section: "Setting up"
+        contents:
+        - create-pkg.qmd
+      - resources.qmd
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: true
